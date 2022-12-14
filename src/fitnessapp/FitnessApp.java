@@ -14,8 +14,8 @@ public class FitnessApp {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println(0);
         // TODO code application logic here
-        //Sytem
     }
     
 }
